@@ -1,0 +1,11 @@
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.csprojAssemblyReference.cache
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.Properties.Resources.resources
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.csproj.GenerateResource.cache
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.csproj.CoreCompileInputs.cache
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\bin\Debug\EducationalSoftware.exe.config
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\bin\Debug\EducationalSoftware.exe
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\bin\Debug\EducationalSoftware.pdb
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.exe
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.pdb
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.LinguaggioForm.resources
+C:\Users\annou\source\repos\EducationalSoftware\EducationalSoftware\obj\Debug\EducationalSoftware.OnlineHelpForm.resources
